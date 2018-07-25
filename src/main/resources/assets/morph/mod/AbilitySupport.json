@@ -2117,7 +2117,7 @@
     "hostile"
   ],
   "net.minecraft.entity.monster.EntityGhast": [
-    "fly|false",
+    "fly|true",
     "fireImmunity",
     "hostile"
   ],
